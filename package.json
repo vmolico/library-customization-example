@@ -1,14 +1,14 @@
 {
-  "name": "library-customization-example",
+  "name": "mdusa-css",
   "version": "1.0.0",
   "description": "Sample customizations for your Library instance",
   "main": "index.js",
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nytimes/library-customization-example.git"
+    "url": "git@github.com:vmolico/mdusa-css.git"
   },
-  "author": "The New York Times",
+  "author": "VM",
   "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/nytimes/library-customization-example/issues"
